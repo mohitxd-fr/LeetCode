@@ -14,3 +14,15 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/mohitxd-fr/LeetCode/tree/master/0075-sort-colors) |
+# Hash Table
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/mohitxd-fr/LeetCode/tree/master/0012-integer-to-roman) |
+# Math
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/mohitxd-fr/LeetCode/tree/master/0012-integer-to-roman) |
+# String
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/mohitxd-fr/LeetCode/tree/master/0012-integer-to-roman) |
