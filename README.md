@@ -15,6 +15,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 | ------- |
 | [0075-sort-colors](https://github.com/mohitxd-fr/LeetCode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mohitxd-fr/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/mohitxd-fr/LeetCode/tree/master/0202-happy-number) |
 # Sorting
 |  |
 | ------- |
@@ -26,12 +27,14 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 | ------- |
 | [0012-integer-to-roman](https://github.com/mohitxd-fr/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/mohitxd-fr/LeetCode/tree/master/0013-roman-to-integer) |
+| [0202-happy-number](https://github.com/mohitxd-fr/LeetCode/tree/master/0202-happy-number) |
 | [0383-ransom-note](https://github.com/mohitxd-fr/LeetCode/tree/master/0383-ransom-note) |
 # Math
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/mohitxd-fr/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/mohitxd-fr/LeetCode/tree/master/0013-roman-to-integer) |
+| [0202-happy-number](https://github.com/mohitxd-fr/LeetCode/tree/master/0202-happy-number) |
 # String
 |  |
 | ------- |
