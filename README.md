@@ -11,6 +11,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 | [0982-minimum-increment-to-make-array-unique](https://github.com/mohitxd-fr/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/mohitxd-fr/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/mohitxd-fr/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [3206-find-common-elements-between-two-arrays](https://github.com/mohitxd-fr/LeetCode/tree/master/3206-find-common-elements-between-two-arrays) |
 # Two Pointers
 |  |
 | ------- |
@@ -31,6 +32,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 | [0202-happy-number](https://github.com/mohitxd-fr/LeetCode/tree/master/0202-happy-number) |
 | [0383-ransom-note](https://github.com/mohitxd-fr/LeetCode/tree/master/0383-ransom-note) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/mohitxd-fr/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [3206-find-common-elements-between-two-arrays](https://github.com/mohitxd-fr/LeetCode/tree/master/3206-find-common-elements-between-two-arrays) |
 # Math
 |  |
 | ------- |
