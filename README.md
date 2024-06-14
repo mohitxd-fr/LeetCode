@@ -26,6 +26,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 | ------- |
 | [0012-integer-to-roman](https://github.com/mohitxd-fr/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/mohitxd-fr/LeetCode/tree/master/0013-roman-to-integer) |
+| [0383-ransom-note](https://github.com/mohitxd-fr/LeetCode/tree/master/0383-ransom-note) |
 # Math
 |  |
 | ------- |
@@ -38,6 +39,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 | [0013-roman-to-integer](https://github.com/mohitxd-fr/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/mohitxd-fr/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/mohitxd-fr/LeetCode/tree/master/0058-length-of-last-word) |
+| [0383-ransom-note](https://github.com/mohitxd-fr/LeetCode/tree/master/0383-ransom-note) |
 # Greedy
 |  |
 | ------- |
@@ -55,4 +57,5 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 # Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/mohitxd-fr/LeetCode/tree/master/0383-ransom-note) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/mohitxd-fr/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
