@@ -8,6 +8,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 | [0075-sort-colors](https://github.com/mohitxd-fr/LeetCode/tree/master/0075-sort-colors) |
 | [0134-gas-station](https://github.com/mohitxd-fr/LeetCode/tree/master/0134-gas-station) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mohitxd-fr/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0219-contains-duplicate-ii](https://github.com/mohitxd-fr/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0502-ipo](https://github.com/mohitxd-fr/LeetCode/tree/master/0502-ipo) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/mohitxd-fr/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/mohitxd-fr/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -32,6 +33,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 | [0012-integer-to-roman](https://github.com/mohitxd-fr/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/mohitxd-fr/LeetCode/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/mohitxd-fr/LeetCode/tree/master/0202-happy-number) |
+| [0219-contains-duplicate-ii](https://github.com/mohitxd-fr/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0383-ransom-note](https://github.com/mohitxd-fr/LeetCode/tree/master/0383-ransom-note) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/mohitxd-fr/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/mohitxd-fr/LeetCode/tree/master/3206-find-common-elements-between-two-arrays) |
@@ -74,3 +76,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 |  |
 | ------- |
 | [0502-ipo](https://github.com/mohitxd-fr/LeetCode/tree/master/0502-ipo) |
+# Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/mohitxd-fr/LeetCode/tree/master/0219-contains-duplicate-ii) |
