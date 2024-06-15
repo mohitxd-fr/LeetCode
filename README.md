@@ -43,6 +43,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 | ------- |
 | [0012-integer-to-roman](https://github.com/mohitxd-fr/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/mohitxd-fr/LeetCode/tree/master/0013-roman-to-integer) |
+| [0069-sqrtx](https://github.com/mohitxd-fr/LeetCode/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/mohitxd-fr/LeetCode/tree/master/0202-happy-number) |
 # String
 |  |
@@ -66,6 +67,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 # Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/mohitxd-fr/LeetCode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/mohitxd-fr/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mohitxd-fr/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 # Counting
