@@ -8,6 +8,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 | [0075-sort-colors](https://github.com/mohitxd-fr/LeetCode/tree/master/0075-sort-colors) |
 | [0134-gas-station](https://github.com/mohitxd-fr/LeetCode/tree/master/0134-gas-station) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mohitxd-fr/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0502-ipo](https://github.com/mohitxd-fr/LeetCode/tree/master/0502-ipo) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/mohitxd-fr/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/mohitxd-fr/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/mohitxd-fr/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -22,6 +23,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/mohitxd-fr/LeetCode/tree/master/0075-sort-colors) |
+| [0502-ipo](https://github.com/mohitxd-fr/LeetCode/tree/master/0502-ipo) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/mohitxd-fr/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/mohitxd-fr/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Hash Table
@@ -51,6 +53,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/mohitxd-fr/LeetCode/tree/master/0134-gas-station) |
+| [0502-ipo](https://github.com/mohitxd-fr/LeetCode/tree/master/0502-ipo) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/mohitxd-fr/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/mohitxd-fr/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Trie
@@ -67,3 +70,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 | [0383-ransom-note](https://github.com/mohitxd-fr/LeetCode/tree/master/0383-ransom-note) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/mohitxd-fr/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/mohitxd-fr/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+# Heap (Priority Queue)
+|  |
+| ------- |
+| [0502-ipo](https://github.com/mohitxd-fr/LeetCode/tree/master/0502-ipo) |
