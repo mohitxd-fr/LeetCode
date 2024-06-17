@@ -22,6 +22,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 | [0075-sort-colors](https://github.com/mohitxd-fr/LeetCode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mohitxd-fr/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/mohitxd-fr/LeetCode/tree/master/0202-happy-number) |
+| [0633-sum-of-square-numbers](https://github.com/mohitxd-fr/LeetCode/tree/master/0633-sum-of-square-numbers) |
 # Sorting
 |  |
 | ------- |
@@ -46,6 +47,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 | [0013-roman-to-integer](https://github.com/mohitxd-fr/LeetCode/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/mohitxd-fr/LeetCode/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/mohitxd-fr/LeetCode/tree/master/0202-happy-number) |
+| [0633-sum-of-square-numbers](https://github.com/mohitxd-fr/LeetCode/tree/master/0633-sum-of-square-numbers) |
 # String
 |  |
 | ------- |
@@ -72,6 +74,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 | [0069-sqrtx](https://github.com/mohitxd-fr/LeetCode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/mohitxd-fr/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mohitxd-fr/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0633-sum-of-square-numbers](https://github.com/mohitxd-fr/LeetCode/tree/master/0633-sum-of-square-numbers) |
 # Counting
 |  |
 | ------- |
