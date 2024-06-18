@@ -45,6 +45,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 | [0347-top-k-frequent-elements](https://github.com/mohitxd-fr/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/mohitxd-fr/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/mohitxd-fr/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [1297-maximum-number-of-balloons](https://github.com/mohitxd-fr/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/mohitxd-fr/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/mohitxd-fr/LeetCode/tree/master/3206-find-common-elements-between-two-arrays) |
 # Math
@@ -64,6 +65,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 | [0058-length-of-last-word](https://github.com/mohitxd-fr/LeetCode/tree/master/0058-length-of-last-word) |
 | [0383-ransom-note](https://github.com/mohitxd-fr/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/mohitxd-fr/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [1297-maximum-number-of-balloons](https://github.com/mohitxd-fr/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 # Greedy
 |  |
 | ------- |
@@ -92,6 +94,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 | [0383-ransom-note](https://github.com/mohitxd-fr/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/mohitxd-fr/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/mohitxd-fr/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1297-maximum-number-of-balloons](https://github.com/mohitxd-fr/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/mohitxd-fr/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 # Heap (Priority Queue)
 |  |
