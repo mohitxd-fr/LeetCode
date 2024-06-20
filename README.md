@@ -16,6 +16,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 | [0853-most-profit-assigning-work](https://github.com/mohitxd-fr/LeetCode/tree/master/0853-most-profit-assigning-work) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/mohitxd-fr/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/mohitxd-fr/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1675-magnetic-force-between-two-balls](https://github.com/mohitxd-fr/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/mohitxd-fr/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/mohitxd-fr/LeetCode/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/mohitxd-fr/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -38,6 +39,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 | [0502-ipo](https://github.com/mohitxd-fr/LeetCode/tree/master/0502-ipo) |
 | [0853-most-profit-assigning-work](https://github.com/mohitxd-fr/LeetCode/tree/master/0853-most-profit-assigning-work) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/mohitxd-fr/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1675-magnetic-force-between-two-balls](https://github.com/mohitxd-fr/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/mohitxd-fr/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Hash Table
 |  |
@@ -95,6 +97,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 | [0633-sum-of-square-numbers](https://github.com/mohitxd-fr/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0853-most-profit-assigning-work](https://github.com/mohitxd-fr/LeetCode/tree/master/0853-most-profit-assigning-work) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/mohitxd-fr/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1675-magnetic-force-between-two-balls](https://github.com/mohitxd-fr/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 # Counting
 |  |
 | ------- |
