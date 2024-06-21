@@ -21,6 +21,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/mohitxd-fr/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/mohitxd-fr/LeetCode/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/mohitxd-fr/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2442-number-of-arithmetic-triplets](https://github.com/mohitxd-fr/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/mohitxd-fr/LeetCode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/mohitxd-fr/LeetCode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/mohitxd-fr/LeetCode/tree/master/3206-find-common-elements-between-two-arrays) |
@@ -32,6 +33,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 | [0202-happy-number](https://github.com/mohitxd-fr/LeetCode/tree/master/0202-happy-number) |
 | [0633-sum-of-square-numbers](https://github.com/mohitxd-fr/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0853-most-profit-assigning-work](https://github.com/mohitxd-fr/LeetCode/tree/master/0853-most-profit-assigning-work) |
+| [2442-number-of-arithmetic-triplets](https://github.com/mohitxd-fr/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
 # Sorting
 |  |
 | ------- |
@@ -55,6 +57,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 | [1297-maximum-number-of-balloons](https://github.com/mohitxd-fr/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/mohitxd-fr/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/mohitxd-fr/LeetCode/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
+| [2442-number-of-arithmetic-triplets](https://github.com/mohitxd-fr/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/mohitxd-fr/LeetCode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/mohitxd-fr/LeetCode/tree/master/3206-find-common-elements-between-two-arrays) |
 # Math
@@ -143,3 +146,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 |  |
 | ------- |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/mohitxd-fr/LeetCode/tree/master/2519-find-the-original-array-of-prefix-xor) |
+# Enumeration
+|  |
+| ------- |
+| [2442-number-of-arithmetic-triplets](https://github.com/mohitxd-fr/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
