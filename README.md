@@ -14,6 +14,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 | [0347-top-k-frequent-elements](https://github.com/mohitxd-fr/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0502-ipo](https://github.com/mohitxd-fr/LeetCode/tree/master/0502-ipo) |
 | [0853-most-profit-assigning-work](https://github.com/mohitxd-fr/LeetCode/tree/master/0853-most-profit-assigning-work) |
+| [0861-flipping-an-image](https://github.com/mohitxd-fr/LeetCode/tree/master/0861-flipping-an-image) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/mohitxd-fr/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1138-grumpy-bookstore-owner](https://github.com/mohitxd-fr/LeetCode/tree/master/1138-grumpy-bookstore-owner) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/mohitxd-fr/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -33,6 +34,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 | [0202-happy-number](https://github.com/mohitxd-fr/LeetCode/tree/master/0202-happy-number) |
 | [0633-sum-of-square-numbers](https://github.com/mohitxd-fr/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0853-most-profit-assigning-work](https://github.com/mohitxd-fr/LeetCode/tree/master/0853-most-profit-assigning-work) |
+| [0861-flipping-an-image](https://github.com/mohitxd-fr/LeetCode/tree/master/0861-flipping-an-image) |
 | [2442-number-of-arithmetic-triplets](https://github.com/mohitxd-fr/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
 # Sorting
 |  |
@@ -126,6 +128,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/mohitxd-fr/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0861-flipping-an-image](https://github.com/mohitxd-fr/LeetCode/tree/master/0861-flipping-an-image) |
 # Queue
 |  |
 | ------- |
@@ -145,8 +148,13 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 # Bit Manipulation
 |  |
 | ------- |
+| [0861-flipping-an-image](https://github.com/mohitxd-fr/LeetCode/tree/master/0861-flipping-an-image) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/mohitxd-fr/LeetCode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 # Enumeration
 |  |
 | ------- |
 | [2442-number-of-arithmetic-triplets](https://github.com/mohitxd-fr/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
+# Simulation
+|  |
+| ------- |
+| [0861-flipping-an-image](https://github.com/mohitxd-fr/LeetCode/tree/master/0861-flipping-an-image) |
