@@ -17,6 +17,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 | [0861-flipping-an-image](https://github.com/mohitxd-fr/LeetCode/tree/master/0861-flipping-an-image) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/mohitxd-fr/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1138-grumpy-bookstore-owner](https://github.com/mohitxd-fr/LeetCode/tree/master/1138-grumpy-bookstore-owner) |
+| [1370-count-number-of-nice-subarrays](https://github.com/mohitxd-fr/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/mohitxd-fr/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/mohitxd-fr/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/mohitxd-fr/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -58,6 +59,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 | [0383-ransom-note](https://github.com/mohitxd-fr/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/mohitxd-fr/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1297-maximum-number-of-balloons](https://github.com/mohitxd-fr/LeetCode/tree/master/1297-maximum-number-of-balloons) |
+| [1370-count-number-of-nice-subarrays](https://github.com/mohitxd-fr/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/mohitxd-fr/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/mohitxd-fr/LeetCode/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2442-number-of-arithmetic-triplets](https://github.com/mohitxd-fr/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
@@ -71,6 +73,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 | [0069-sqrtx](https://github.com/mohitxd-fr/LeetCode/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/mohitxd-fr/LeetCode/tree/master/0202-happy-number) |
 | [0633-sum-of-square-numbers](https://github.com/mohitxd-fr/LeetCode/tree/master/0633-sum-of-square-numbers) |
+| [1370-count-number-of-nice-subarrays](https://github.com/mohitxd-fr/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 # String
 |  |
 | ------- |
@@ -126,6 +129,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/mohitxd-fr/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [1138-grumpy-bookstore-owner](https://github.com/mohitxd-fr/LeetCode/tree/master/1138-grumpy-bookstore-owner) |
+| [1370-count-number-of-nice-subarrays](https://github.com/mohitxd-fr/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 # Matrix
 |  |
 | ------- |
