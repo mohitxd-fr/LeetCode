@@ -126,6 +126,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 # Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/mohitxd-fr/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/mohitxd-fr/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0502-ipo](https://github.com/mohitxd-fr/LeetCode/tree/master/0502-ipo) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/mohitxd-fr/LeetCode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -151,6 +152,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 # Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/mohitxd-fr/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/mohitxd-fr/LeetCode/tree/master/0347-top-k-frequent-elements) |
 # Bucket Sort
 |  |
@@ -207,3 +209,11 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/mohitxd-fr/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+# Linked List
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/mohitxd-fr/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+# Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/mohitxd-fr/LeetCode/tree/master/0023-merge-k-sorted-lists) |
