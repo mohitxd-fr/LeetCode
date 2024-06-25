@@ -191,3 +191,19 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 | ------- |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/mohitxd-fr/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1666-make-the-string-great](https://github.com/mohitxd-fr/LeetCode/tree/master/1666-make-the-string-great) |
+# Tree
+|  |
+| ------- |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/mohitxd-fr/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+# Depth-First Search
+|  |
+| ------- |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/mohitxd-fr/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+# Binary Search Tree
+|  |
+| ------- |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/mohitxd-fr/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+# Binary Tree
+|  |
+| ------- |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/mohitxd-fr/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
