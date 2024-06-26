@@ -22,6 +22,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/mohitxd-fr/LeetCode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/mohitxd-fr/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/mohitxd-fr/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/mohitxd-fr/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/mohitxd-fr/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/mohitxd-fr/LeetCode/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/mohitxd-fr/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -79,6 +80,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 | [0445-add-two-numbers-ii](https://github.com/mohitxd-fr/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0633-sum-of-square-numbers](https://github.com/mohitxd-fr/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/mohitxd-fr/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/mohitxd-fr/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 # String
 |  |
 | ------- |
