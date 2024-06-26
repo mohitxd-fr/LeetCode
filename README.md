@@ -44,6 +44,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/mohitxd-fr/LeetCode/tree/master/0075-sort-colors) |
+| [0242-valid-anagram](https://github.com/mohitxd-fr/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/mohitxd-fr/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0502-ipo](https://github.com/mohitxd-fr/LeetCode/tree/master/0502-ipo) |
 | [0853-most-profit-assigning-work](https://github.com/mohitxd-fr/LeetCode/tree/master/0853-most-profit-assigning-work) |
@@ -57,6 +58,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 | [0013-roman-to-integer](https://github.com/mohitxd-fr/LeetCode/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/mohitxd-fr/LeetCode/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/mohitxd-fr/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/mohitxd-fr/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/mohitxd-fr/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/mohitxd-fr/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/mohitxd-fr/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
@@ -84,6 +86,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 | [0013-roman-to-integer](https://github.com/mohitxd-fr/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/mohitxd-fr/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/mohitxd-fr/LeetCode/tree/master/0058-length-of-last-word) |
+| [0242-valid-anagram](https://github.com/mohitxd-fr/LeetCode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/mohitxd-fr/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/mohitxd-fr/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/mohitxd-fr/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
