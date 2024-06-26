@@ -74,6 +74,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 | [0013-roman-to-integer](https://github.com/mohitxd-fr/LeetCode/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/mohitxd-fr/LeetCode/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/mohitxd-fr/LeetCode/tree/master/0202-happy-number) |
+| [0445-add-two-numbers-ii](https://github.com/mohitxd-fr/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0633-sum-of-square-numbers](https://github.com/mohitxd-fr/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/mohitxd-fr/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 # String
@@ -193,6 +194,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 # Stack
 |  |
 | ------- |
+| [0445-add-two-numbers-ii](https://github.com/mohitxd-fr/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/mohitxd-fr/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1666-make-the-string-great](https://github.com/mohitxd-fr/LeetCode/tree/master/1666-make-the-string-great) |
 # Tree
@@ -219,6 +221,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/mohitxd-fr/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0445-add-two-numbers-ii](https://github.com/mohitxd-fr/LeetCode/tree/master/0445-add-two-numbers-ii) |
 # Merge Sort
 |  |
 | ------- |
