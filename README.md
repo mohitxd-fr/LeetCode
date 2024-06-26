@@ -22,6 +22,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/mohitxd-fr/LeetCode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/mohitxd-fr/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/mohitxd-fr/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
+| [1677-matrix-diagonal-sum](https://github.com/mohitxd-fr/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/mohitxd-fr/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/mohitxd-fr/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/mohitxd-fr/LeetCode/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
@@ -150,6 +151,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/mohitxd-fr/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0861-flipping-an-image](https://github.com/mohitxd-fr/LeetCode/tree/master/0861-flipping-an-image) |
+| [1677-matrix-diagonal-sum](https://github.com/mohitxd-fr/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 # Queue
 |  |
 | ------- |
