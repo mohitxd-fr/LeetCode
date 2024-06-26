@@ -76,6 +76,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 | ------- |
 | [0012-integer-to-roman](https://github.com/mohitxd-fr/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/mohitxd-fr/LeetCode/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/mohitxd-fr/LeetCode/tree/master/0043-multiply-strings) |
 | [0069-sqrtx](https://github.com/mohitxd-fr/LeetCode/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/mohitxd-fr/LeetCode/tree/master/0202-happy-number) |
 | [0445-add-two-numbers-ii](https://github.com/mohitxd-fr/LeetCode/tree/master/0445-add-two-numbers-ii) |
@@ -88,6 +89,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 | [0012-integer-to-roman](https://github.com/mohitxd-fr/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/mohitxd-fr/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/mohitxd-fr/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0043-multiply-strings](https://github.com/mohitxd-fr/LeetCode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/mohitxd-fr/LeetCode/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/mohitxd-fr/LeetCode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/mohitxd-fr/LeetCode/tree/master/0383-ransom-note) |
@@ -185,6 +187,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 # Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/mohitxd-fr/LeetCode/tree/master/0043-multiply-strings) |
 | [0861-flipping-an-image](https://github.com/mohitxd-fr/LeetCode/tree/master/0861-flipping-an-image) |
 # Ordered Set
 |  |
