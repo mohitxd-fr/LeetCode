@@ -15,6 +15,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 | [0502-ipo](https://github.com/mohitxd-fr/LeetCode/tree/master/0502-ipo) |
 | [0853-most-profit-assigning-work](https://github.com/mohitxd-fr/LeetCode/tree/master/0853-most-profit-assigning-work) |
 | [0861-flipping-an-image](https://github.com/mohitxd-fr/LeetCode/tree/master/0861-flipping-an-image) |
+| [0932-monotonic-array](https://github.com/mohitxd-fr/LeetCode/tree/master/0932-monotonic-array) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/mohitxd-fr/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/mohitxd-fr/LeetCode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1138-grumpy-bookstore-owner](https://github.com/mohitxd-fr/LeetCode/tree/master/1138-grumpy-bookstore-owner) |
