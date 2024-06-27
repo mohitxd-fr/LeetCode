@@ -236,3 +236,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/mohitxd-fr/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+# Graph
+|  |
+| ------- |
+| [1916-find-center-of-star-graph](https://github.com/mohitxd-fr/LeetCode/tree/master/1916-find-center-of-star-graph) |
