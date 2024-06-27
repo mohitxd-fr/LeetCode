@@ -85,6 +85,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 | [0445-add-two-numbers-ii](https://github.com/mohitxd-fr/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0633-sum-of-square-numbers](https://github.com/mohitxd-fr/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/mohitxd-fr/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1630-count-odd-numbers-in-an-interval-range](https://github.com/mohitxd-fr/LeetCode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/mohitxd-fr/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 # String
 |  |
