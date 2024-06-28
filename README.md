@@ -101,6 +101,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 | [0242-valid-anagram](https://github.com/mohitxd-fr/LeetCode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/mohitxd-fr/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/mohitxd-fr/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/mohitxd-fr/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/mohitxd-fr/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/mohitxd-fr/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1297-maximum-number-of-balloons](https://github.com/mohitxd-fr/LeetCode/tree/master/1297-maximum-number-of-balloons) |
@@ -252,3 +253,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 | ------- |
 | [1916-find-center-of-star-graph](https://github.com/mohitxd-fr/LeetCode/tree/master/1916-find-center-of-star-graph) |
 | [2379-maximum-total-importance-of-roads](https://github.com/mohitxd-fr/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
+# String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/mohitxd-fr/LeetCode/tree/master/0459-repeated-substring-pattern) |
