@@ -9,15 +9,15 @@ public:
             {
                 x++;
             }
-            else if(ch == 'D')
+            if(ch == 'D')
             {
                 x--;
             }
-            else if(ch == 'L')
+            if(ch == 'L')
             {
                 y++;
             }
-            else if(ch == 'R')
+            if(ch == 'R')
             {
                 y--;
             }
