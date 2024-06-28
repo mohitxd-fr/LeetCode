@@ -56,6 +56,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/mohitxd-fr/LeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1675-magnetic-force-between-two-balls](https://github.com/mohitxd-fr/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/mohitxd-fr/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2379-maximum-total-importance-of-roads](https://github.com/mohitxd-fr/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
 # Hash Table
 |  |
 | ------- |
@@ -113,6 +114,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 | [0982-minimum-increment-to-make-array-unique](https://github.com/mohitxd-fr/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1285-balance-a-binary-search-tree](https://github.com/mohitxd-fr/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/mohitxd-fr/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2379-maximum-total-importance-of-roads](https://github.com/mohitxd-fr/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
 # Trie
 |  |
 | ------- |
@@ -144,6 +146,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 | [0347-top-k-frequent-elements](https://github.com/mohitxd-fr/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0502-ipo](https://github.com/mohitxd-fr/LeetCode/tree/master/0502-ipo) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/mohitxd-fr/LeetCode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [2379-maximum-total-importance-of-roads](https://github.com/mohitxd-fr/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
 # Sliding Window
 |  |
 | ------- |
@@ -244,3 +247,4 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 |  |
 | ------- |
 | [1916-find-center-of-star-graph](https://github.com/mohitxd-fr/LeetCode/tree/master/1916-find-center-of-star-graph) |
+| [2379-maximum-total-importance-of-roads](https://github.com/mohitxd-fr/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
