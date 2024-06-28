@@ -119,6 +119,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 | [0330-patching-array](https://github.com/mohitxd-fr/LeetCode/tree/master/0330-patching-array) |
 | [0502-ipo](https://github.com/mohitxd-fr/LeetCode/tree/master/0502-ipo) |
 | [0853-most-profit-assigning-work](https://github.com/mohitxd-fr/LeetCode/tree/master/0853-most-profit-assigning-work) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/mohitxd-fr/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/mohitxd-fr/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1285-balance-a-binary-search-tree](https://github.com/mohitxd-fr/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/mohitxd-fr/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -228,6 +229,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 | ------- |
 | [0445-add-two-numbers-ii](https://github.com/mohitxd-fr/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0682-baseball-game](https://github.com/mohitxd-fr/LeetCode/tree/master/0682-baseball-game) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/mohitxd-fr/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/mohitxd-fr/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1666-make-the-string-great](https://github.com/mohitxd-fr/LeetCode/tree/master/1666-make-the-string-great) |
 # Tree
@@ -270,3 +272,4 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 | [0451-sort-characters-by-frequency](https://github.com/mohitxd-fr/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/mohitxd-fr/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0657-robot-return-to-origin](https://github.com/mohitxd-fr/LeetCode/tree/master/0657-robot-return-to-origin) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/mohitxd-fr/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
