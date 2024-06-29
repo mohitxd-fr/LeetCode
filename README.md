@@ -273,3 +273,22 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 | [0459-repeated-substring-pattern](https://github.com/mohitxd-fr/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0657-robot-return-to-origin](https://github.com/mohitxd-fr/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/mohitxd-fr/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Depth-First Search
+|  |
+| ------- |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/mohitxd-fr/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/mohitxd-fr/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+## Graph
+|  |
+| ------- |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/mohitxd-fr/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+## Topological Sort
+|  |
+| ------- |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/mohitxd-fr/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+<!---LeetCode Topics End-->
