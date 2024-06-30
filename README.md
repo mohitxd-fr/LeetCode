@@ -296,4 +296,12 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 |  |
 | ------- |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/mohitxd-fr/LeetCode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
+## Array
+|  |
+| ------- |
+| [0135-candy](https://github.com/mohitxd-fr/LeetCode/tree/master/0135-candy) |
+## Greedy
+|  |
+| ------- |
+| [0135-candy](https://github.com/mohitxd-fr/LeetCode/tree/master/0135-candy) |
 <!---LeetCode Topics End-->
