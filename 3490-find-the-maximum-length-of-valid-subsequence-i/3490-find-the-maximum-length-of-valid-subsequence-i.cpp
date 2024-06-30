@@ -35,7 +35,7 @@ class Solution {
         return *max_element(counters.begin(), counters.end());
     }
 public:
-    int maximumLength(std::vector<int>& nums) {
+    int maximumLength(vector<int>& nums) {
         int ans = countValidSubsequence(nums);
         return ans;
     }
