@@ -1,50 +1,30 @@
 class Solution {
-    bool canBuildRow(int balls,int row)
+    int check(int first,int second)
     {
-        return balls >= row;
-    }
-    void buildRow(int &balls, int row)
-    {
-        balls -= row;
-    }
-    int check(int red, int blue)
-    {
-        int height = 0;
-        for(int row=1; ;row++)
+        int parity = 1;
+        int total = 0;
+        while(first >= 0 && second >= 0)
         {
-            if(row % 2 == 1)
+            if(parity % 2 == 1)
             {
-                if(canBuildRow(red, row))
-                {
-                    buildRow(red, row);
-                    height++;
-                }
-                else
-                {
-                    break;
-                }
+                first = first - parity;
             }
             else
             {
-                if(canBuildRow(blue, row))
-                {
-                    buildRow(blue, row);
-                    height++;
-                }
-                else
-                {
-                    break;
-                }
+                second = second - parity;
             }
+            if(first < 0 || second < 0)
+            {
+                return total;
+            }
+            total++;
+            parity++;
         }
-        return height;
+        return total;
     }
 public:
     int maxHeightOfTriangle(int red, int blue) {
-        int checkRed = check(red, blue);
-        int checkBlue = check(blue, red);
-        
-        int ans = max(checkRed, checkBlue);
+        int ans = max(check(red,blue), check(blue,red));
         return ans;
     }
 };
