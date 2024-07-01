@@ -300,6 +300,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 |  |
 | ------- |
 | [0135-candy](https://github.com/mohitxd-fr/LeetCode/tree/master/0135-candy) |
+| [1293-three-consecutive-odds](https://github.com/mohitxd-fr/LeetCode/tree/master/1293-three-consecutive-odds) |
 ## Greedy
 |  |
 | ------- |
