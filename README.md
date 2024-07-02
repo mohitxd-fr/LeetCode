@@ -299,6 +299,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/mohitxd-fr/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0135-candy](https://github.com/mohitxd-fr/LeetCode/tree/master/0135-candy) |
 | [0209-minimum-size-subarray-sum](https://github.com/mohitxd-fr/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0228-summary-ranges](https://github.com/mohitxd-fr/LeetCode/tree/master/0228-summary-ranges) |
@@ -328,9 +329,22 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/mohitxd-fr/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mohitxd-fr/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sorting
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mohitxd-fr/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/mohitxd-fr/LeetCode/tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/mohitxd-fr/LeetCode/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/mohitxd-fr/LeetCode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
