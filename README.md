@@ -363,4 +363,12 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 | ------- |
 | [0205-isomorphic-strings](https://github.com/mohitxd-fr/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/mohitxd-fr/LeetCode/tree/master/0290-word-pattern) |
+## Linked List
+|  |
+| ------- |
+| [2299-merge-nodes-in-between-zeros](https://github.com/mohitxd-fr/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
+## Simulation
+|  |
+| ------- |
+| [2299-merge-nodes-in-between-zeros](https://github.com/mohitxd-fr/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 <!---LeetCode Topics End-->
