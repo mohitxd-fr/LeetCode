@@ -301,6 +301,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/mohitxd-fr/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/mohitxd-fr/LeetCode/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/mohitxd-fr/LeetCode/tree/master/0057-insert-interval) |
 | [0135-candy](https://github.com/mohitxd-fr/LeetCode/tree/master/0135-candy) |
 | [0209-minimum-size-subarray-sum](https://github.com/mohitxd-fr/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0228-summary-ranges](https://github.com/mohitxd-fr/LeetCode/tree/master/0228-summary-ranges) |
