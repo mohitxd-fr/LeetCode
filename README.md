@@ -311,6 +311,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 | [1293-three-consecutive-odds](https://github.com/mohitxd-fr/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1395-minimum-time-visiting-all-points](https://github.com/mohitxd-fr/LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/mohitxd-fr/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/mohitxd-fr/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Greedy
 |  |
 | ------- |
@@ -386,6 +387,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 | ------- |
 | [1395-minimum-time-visiting-all-points](https://github.com/mohitxd-fr/LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1448-maximum-69-number](https://github.com/mohitxd-fr/LeetCode/tree/master/1448-maximum-69-number) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/mohitxd-fr/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Geometry
 |  |
 | ------- |
