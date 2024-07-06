@@ -382,12 +382,14 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 |  |
 | ------- |
 | [2299-merge-nodes-in-between-zeros](https://github.com/mohitxd-fr/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2645-pass-the-pillow](https://github.com/mohitxd-fr/LeetCode/tree/master/2645-pass-the-pillow) |
 ## Math
 |  |
 | ------- |
 | [1395-minimum-time-visiting-all-points](https://github.com/mohitxd-fr/LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1448-maximum-69-number](https://github.com/mohitxd-fr/LeetCode/tree/master/1448-maximum-69-number) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/mohitxd-fr/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2645-pass-the-pillow](https://github.com/mohitxd-fr/LeetCode/tree/master/2645-pass-the-pillow) |
 ## Geometry
 |  |
 | ------- |
