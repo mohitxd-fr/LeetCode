@@ -362,6 +362,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/mohitxd-fr/LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/mohitxd-fr/LeetCode/tree/master/0042-trapping-rain-water) |
 ## Monotonic Stack
 |  |
@@ -370,6 +371,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/mohitxd-fr/LeetCode/tree/master/0020-valid-parentheses) |
 | [0205-isomorphic-strings](https://github.com/mohitxd-fr/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/mohitxd-fr/LeetCode/tree/master/0290-word-pattern) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/mohitxd-fr/LeetCode/tree/master/2816-lexicographically-smallest-palindrome) |
