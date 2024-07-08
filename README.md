@@ -299,6 +299,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/mohitxd-fr/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/mohitxd-fr/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/mohitxd-fr/LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/mohitxd-fr/LeetCode/tree/master/0057-insert-interval) |
@@ -324,6 +325,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/mohitxd-fr/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/mohitxd-fr/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mohitxd-fr/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sliding Window
