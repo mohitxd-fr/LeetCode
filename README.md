@@ -357,6 +357,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 | [0350-intersection-of-two-arrays-ii](https://github.com/mohitxd-fr/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/mohitxd-fr/LeetCode/tree/master/0455-assign-cookies) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/mohitxd-fr/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2481-strictly-palindromic-number](https://github.com/mohitxd-fr/LeetCode/tree/master/2481-strictly-palindromic-number) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/mohitxd-fr/LeetCode/tree/master/2816-lexicographically-smallest-palindrome) |
 ## Sorting
 |  |
@@ -411,6 +412,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 | [1448-maximum-69-number](https://github.com/mohitxd-fr/LeetCode/tree/master/1448-maximum-69-number) |
 | [1642-water-bottles](https://github.com/mohitxd-fr/LeetCode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/mohitxd-fr/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2481-strictly-palindromic-number](https://github.com/mohitxd-fr/LeetCode/tree/master/2481-strictly-palindromic-number) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/mohitxd-fr/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2645-pass-the-pillow](https://github.com/mohitxd-fr/LeetCode/tree/master/2645-pass-the-pillow) |
 ## Geometry
@@ -435,4 +437,8 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 | ------- |
 | [0816-design-hashset](https://github.com/mohitxd-fr/LeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/mohitxd-fr/LeetCode/tree/master/0817-design-hashmap) |
+## Brainteaser
+|  |
+| ------- |
+| [2481-strictly-palindromic-number](https://github.com/mohitxd-fr/LeetCode/tree/master/2481-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
