@@ -312,6 +312,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 | [1293-three-consecutive-odds](https://github.com/mohitxd-fr/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1395-minimum-time-visiting-all-points](https://github.com/mohitxd-fr/LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/mohitxd-fr/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1720-crawler-log-folder](https://github.com/mohitxd-fr/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/mohitxd-fr/LeetCode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/mohitxd-fr/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/mohitxd-fr/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -368,6 +369,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 | ------- |
 | [0020-valid-parentheses](https://github.com/mohitxd-fr/LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/mohitxd-fr/LeetCode/tree/master/0042-trapping-rain-water) |
+| [1720-crawler-log-folder](https://github.com/mohitxd-fr/LeetCode/tree/master/1720-crawler-log-folder) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -378,6 +380,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 | [0020-valid-parentheses](https://github.com/mohitxd-fr/LeetCode/tree/master/0020-valid-parentheses) |
 | [0205-isomorphic-strings](https://github.com/mohitxd-fr/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/mohitxd-fr/LeetCode/tree/master/0290-word-pattern) |
+| [1720-crawler-log-folder](https://github.com/mohitxd-fr/LeetCode/tree/master/1720-crawler-log-folder) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/mohitxd-fr/LeetCode/tree/master/2816-lexicographically-smallest-palindrome) |
 ## Linked List
 |  |
