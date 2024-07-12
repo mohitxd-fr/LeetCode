@@ -372,6 +372,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/mohitxd-fr/LeetCode/tree/master/0042-trapping-rain-water) |
+| [1086-divisor-game](https://github.com/mohitxd-fr/LeetCode/tree/master/1086-divisor-game) |
 ## Stack
 |  |
 | ------- |
@@ -413,6 +414,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 ## Math
 |  |
 | ------- |
+| [1086-divisor-game](https://github.com/mohitxd-fr/LeetCode/tree/master/1086-divisor-game) |
 | [1395-minimum-time-visiting-all-points](https://github.com/mohitxd-fr/LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1448-maximum-69-number](https://github.com/mohitxd-fr/LeetCode/tree/master/1448-maximum-69-number) |
 | [1642-water-bottles](https://github.com/mohitxd-fr/LeetCode/tree/master/1642-water-bottles) |
@@ -445,5 +447,10 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 ## Brainteaser
 |  |
 | ------- |
+| [1086-divisor-game](https://github.com/mohitxd-fr/LeetCode/tree/master/1086-divisor-game) |
 | [2481-strictly-palindromic-number](https://github.com/mohitxd-fr/LeetCode/tree/master/2481-strictly-palindromic-number) |
+## Game Theory
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/mohitxd-fr/LeetCode/tree/master/1086-divisor-game) |
 <!---LeetCode Topics End-->
