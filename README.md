@@ -414,6 +414,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 ## Math
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/mohitxd-fr/LeetCode/tree/master/0292-nim-game) |
 | [1086-divisor-game](https://github.com/mohitxd-fr/LeetCode/tree/master/1086-divisor-game) |
 | [1395-minimum-time-visiting-all-points](https://github.com/mohitxd-fr/LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1448-maximum-69-number](https://github.com/mohitxd-fr/LeetCode/tree/master/1448-maximum-69-number) |
@@ -447,10 +448,12 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/mohitxd-fr/LeetCode/tree/master/0292-nim-game) |
 | [1086-divisor-game](https://github.com/mohitxd-fr/LeetCode/tree/master/1086-divisor-game) |
 | [2481-strictly-palindromic-number](https://github.com/mohitxd-fr/LeetCode/tree/master/2481-strictly-palindromic-number) |
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/mohitxd-fr/LeetCode/tree/master/0292-nim-game) |
 | [1086-divisor-game](https://github.com/mohitxd-fr/LeetCode/tree/master/1086-divisor-game) |
 <!---LeetCode Topics End-->
