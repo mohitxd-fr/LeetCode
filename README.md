@@ -331,6 +331,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/mohitxd-fr/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/mohitxd-fr/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/mohitxd-fr/LeetCode/tree/master/2816-lexicographically-smallest-palindrome) |
+| [2850-construct-the-longest-new-string](https://github.com/mohitxd-fr/LeetCode/tree/master/2850-construct-the-longest-new-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -376,6 +377,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/mohitxd-fr/LeetCode/tree/master/0042-trapping-rain-water) |
 | [1086-divisor-game](https://github.com/mohitxd-fr/LeetCode/tree/master/1086-divisor-game) |
+| [2850-construct-the-longest-new-string](https://github.com/mohitxd-fr/LeetCode/tree/master/2850-construct-the-longest-new-string) |
 ## Stack
 |  |
 | ------- |
@@ -429,6 +431,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 | [2481-strictly-palindromic-number](https://github.com/mohitxd-fr/LeetCode/tree/master/2481-strictly-palindromic-number) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/mohitxd-fr/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2645-pass-the-pillow](https://github.com/mohitxd-fr/LeetCode/tree/master/2645-pass-the-pillow) |
+| [2850-construct-the-longest-new-string](https://github.com/mohitxd-fr/LeetCode/tree/master/2850-construct-the-longest-new-string) |
 ## Geometry
 |  |
 | ------- |
@@ -458,6 +461,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 | [1086-divisor-game](https://github.com/mohitxd-fr/LeetCode/tree/master/1086-divisor-game) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/mohitxd-fr/LeetCode/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [2481-strictly-palindromic-number](https://github.com/mohitxd-fr/LeetCode/tree/master/2481-strictly-palindromic-number) |
+| [2850-construct-the-longest-new-string](https://github.com/mohitxd-fr/LeetCode/tree/master/2850-construct-the-longest-new-string) |
 ## Game Theory
 |  |
 | ------- |
