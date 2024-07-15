@@ -319,6 +319,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 | [1803-average-waiting-time](https://github.com/mohitxd-fr/LeetCode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/mohitxd-fr/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/mohitxd-fr/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/mohitxd-fr/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/mohitxd-fr/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2846-robot-collisions](https://github.com/mohitxd-fr/LeetCode/tree/master/2846-robot-collisions) |
 ## Greedy
@@ -355,6 +356,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 | [0726-number-of-atoms](https://github.com/mohitxd-fr/LeetCode/tree/master/0726-number-of-atoms) |
 | [0816-design-hashset](https://github.com/mohitxd-fr/LeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/mohitxd-fr/LeetCode/tree/master/0817-design-hashmap) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/mohitxd-fr/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Two Pointers
 |  |
 | ------- |
@@ -473,4 +475,12 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 | ------- |
 | [0292-nim-game](https://github.com/mohitxd-fr/LeetCode/tree/master/0292-nim-game) |
 | [1086-divisor-game](https://github.com/mohitxd-fr/LeetCode/tree/master/1086-divisor-game) |
+## Tree
+|  |
+| ------- |
+| [2306-create-binary-tree-from-descriptions](https://github.com/mohitxd-fr/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
+## Binary Tree
+|  |
+| ------- |
+| [2306-create-binary-tree-from-descriptions](https://github.com/mohitxd-fr/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 <!---LeetCode Topics End-->
