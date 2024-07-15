@@ -303,6 +303,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 | [0042-trapping-rain-water](https://github.com/mohitxd-fr/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/mohitxd-fr/LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/mohitxd-fr/LeetCode/tree/master/0057-insert-interval) |
+| [0075-sort-colors](https://github.com/mohitxd-fr/LeetCode/tree/master/0075-sort-colors) |
 | [0135-candy](https://github.com/mohitxd-fr/LeetCode/tree/master/0135-candy) |
 | [0209-minimum-size-subarray-sum](https://github.com/mohitxd-fr/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0228-summary-ranges](https://github.com/mohitxd-fr/LeetCode/tree/master/0228-summary-ranges) |
@@ -361,6 +362,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/mohitxd-fr/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/mohitxd-fr/LeetCode/tree/master/0075-sort-colors) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mohitxd-fr/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/mohitxd-fr/LeetCode/tree/master/0455-assign-cookies) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/mohitxd-fr/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -370,6 +372,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/mohitxd-fr/LeetCode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/mohitxd-fr/LeetCode/tree/master/0075-sort-colors) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mohitxd-fr/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/mohitxd-fr/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/mohitxd-fr/LeetCode/tree/master/0455-assign-cookies) |
