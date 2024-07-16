@@ -415,6 +415,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 ## Linked List
 |  |
 | ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/mohitxd-fr/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0816-design-hashset](https://github.com/mohitxd-fr/LeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/mohitxd-fr/LeetCode/tree/master/0817-design-hashmap) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/mohitxd-fr/LeetCode/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
