@@ -361,6 +361,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 | [0816-design-hashset](https://github.com/mohitxd-fr/LeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/mohitxd-fr/LeetCode/tree/master/0817-design-hashmap) |
 | [1848-sum-of-unique-elements](https://github.com/mohitxd-fr/LeetCode/tree/master/1848-sum-of-unique-elements) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/mohitxd-fr/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/mohitxd-fr/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Two Pointers
 |  |
@@ -413,6 +414,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mohitxd-fr/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/mohitxd-fr/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/mohitxd-fr/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/mohitxd-fr/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/mohitxd-fr/LeetCode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/mohitxd-fr/LeetCode/tree/master/2816-lexicographically-smallest-palindrome) |
 ## Linked List
@@ -500,4 +502,5 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 |  |
 | ------- |
 | [1848-sum-of-unique-elements](https://github.com/mohitxd-fr/LeetCode/tree/master/1848-sum-of-unique-elements) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/mohitxd-fr/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 <!---LeetCode Topics End-->
