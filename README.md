@@ -418,6 +418,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 | [0205-isomorphic-strings](https://github.com/mohitxd-fr/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/mohitxd-fr/LeetCode/tree/master/0290-word-pattern) |
 | [0726-number-of-atoms](https://github.com/mohitxd-fr/LeetCode/tree/master/0726-number-of-atoms) |
+| [0812-rotate-string](https://github.com/mohitxd-fr/LeetCode/tree/master/0812-rotate-string) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mohitxd-fr/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1472-increasing-decreasing-string](https://github.com/mohitxd-fr/LeetCode/tree/master/1472-increasing-decreasing-string) |
 | [1720-crawler-log-folder](https://github.com/mohitxd-fr/LeetCode/tree/master/1720-crawler-log-folder) |
@@ -517,4 +518,8 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 | ------- |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/mohitxd-fr/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [2472-build-a-matrix-with-conditions](https://github.com/mohitxd-fr/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/mohitxd-fr/LeetCode/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
