@@ -364,6 +364,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 | ------- |
 | [0205-isomorphic-strings](https://github.com/mohitxd-fr/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/mohitxd-fr/LeetCode/tree/master/0290-word-pattern) |
+| [0299-bulls-and-cows](https://github.com/mohitxd-fr/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mohitxd-fr/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/mohitxd-fr/LeetCode/tree/master/0726-number-of-atoms) |
 | [0816-design-hashset](https://github.com/mohitxd-fr/LeetCode/tree/master/0816-design-hashset) |
@@ -422,6 +423,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 | [0020-valid-parentheses](https://github.com/mohitxd-fr/LeetCode/tree/master/0020-valid-parentheses) |
 | [0205-isomorphic-strings](https://github.com/mohitxd-fr/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/mohitxd-fr/LeetCode/tree/master/0290-word-pattern) |
+| [0299-bulls-and-cows](https://github.com/mohitxd-fr/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0726-number-of-atoms](https://github.com/mohitxd-fr/LeetCode/tree/master/0726-number-of-atoms) |
 | [0812-rotate-string](https://github.com/mohitxd-fr/LeetCode/tree/master/0812-rotate-string) |
 | [0837-most-common-word](https://github.com/mohitxd-fr/LeetCode/tree/master/0837-most-common-word) |
@@ -516,6 +518,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 ## Counting
 |  |
 | ------- |
+| [0299-bulls-and-cows](https://github.com/mohitxd-fr/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0837-most-common-word](https://github.com/mohitxd-fr/LeetCode/tree/master/0837-most-common-word) |
 | [1472-increasing-decreasing-string](https://github.com/mohitxd-fr/LeetCode/tree/master/1472-increasing-decreasing-string) |
 | [1848-sum-of-unique-elements](https://github.com/mohitxd-fr/LeetCode/tree/master/1848-sum-of-unique-elements) |
