@@ -319,6 +319,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 | [0817-design-hashmap](https://github.com/mohitxd-fr/LeetCode/tree/master/0817-design-hashmap) |
 | [0837-most-common-word](https://github.com/mohitxd-fr/LeetCode/tree/master/0837-most-common-word) |
 | [0978-valid-mountain-array](https://github.com/mohitxd-fr/LeetCode/tree/master/0978-valid-mountain-array) |
+| [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/mohitxd-fr/LeetCode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1293-three-consecutive-odds](https://github.com/mohitxd-fr/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1333-sort-the-jumbled-numbers](https://github.com/mohitxd-fr/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1395-minimum-time-visiting-all-points](https://github.com/mohitxd-fr/LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
@@ -340,6 +341,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 | [0135-candy](https://github.com/mohitxd-fr/LeetCode/tree/master/0135-candy) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/mohitxd-fr/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/mohitxd-fr/LeetCode/tree/master/0455-assign-cookies) |
+| [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/mohitxd-fr/LeetCode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1448-maximum-69-number](https://github.com/mohitxd-fr/LeetCode/tree/master/1448-maximum-69-number) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/mohitxd-fr/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/mohitxd-fr/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
