@@ -7,7 +7,7 @@ public:
         for(int i=0;i<n;i++)
         {
             int originalNum = nums[i];
-            int mappedNum = originalNum == 0 ? mapping[0] : 0;
+            int mappedNum = (originalNum == 0) ? mapping[0] : 0;
             int placeValue = 1;
 
             while(originalNum > 0)
@@ -23,7 +23,7 @@ public:
         sort(v.begin(), v.end());
 
         vector<int> ans;
-        for (auto& pair : v)
+        for(auto& pair : v)
         {
             ans.push_back(nums[pair.second]);
         }
