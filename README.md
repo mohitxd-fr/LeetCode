@@ -313,6 +313,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 | [0198-house-robber](https://github.com/mohitxd-fr/LeetCode/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/mohitxd-fr/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0228-summary-ranges](https://github.com/mohitxd-fr/LeetCode/tree/master/0228-summary-ranges) |
+| [0287-find-the-duplicate-number](https://github.com/mohitxd-fr/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mohitxd-fr/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/mohitxd-fr/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/mohitxd-fr/LeetCode/tree/master/0455-assign-cookies) |
@@ -354,6 +355,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/mohitxd-fr/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/mohitxd-fr/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/mohitxd-fr/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mohitxd-fr/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sliding Window
 |  |
@@ -383,6 +385,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/mohitxd-fr/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/mohitxd-fr/LeetCode/tree/master/0075-sort-colors) |
+| [0287-find-the-duplicate-number](https://github.com/mohitxd-fr/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mohitxd-fr/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/mohitxd-fr/LeetCode/tree/master/0455-assign-cookies) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/mohitxd-fr/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -563,4 +566,8 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/mohitxd-fr/LeetCode/tree/master/0948-sort-an-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/mohitxd-fr/LeetCode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
