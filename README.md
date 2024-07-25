@@ -310,6 +310,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 | [0075-sort-colors](https://github.com/mohitxd-fr/LeetCode/tree/master/0075-sort-colors) |
 | [0135-candy](https://github.com/mohitxd-fr/LeetCode/tree/master/0135-candy) |
 | [0152-maximum-product-subarray](https://github.com/mohitxd-fr/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0198-house-robber](https://github.com/mohitxd-fr/LeetCode/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/mohitxd-fr/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0228-summary-ranges](https://github.com/mohitxd-fr/LeetCode/tree/master/0228-summary-ranges) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mohitxd-fr/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -405,6 +406,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/mohitxd-fr/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0152-maximum-product-subarray](https://github.com/mohitxd-fr/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0198-house-robber](https://github.com/mohitxd-fr/LeetCode/tree/master/0198-house-robber) |
 | [1086-divisor-game](https://github.com/mohitxd-fr/LeetCode/tree/master/1086-divisor-game) |
 | [2850-construct-the-longest-new-string](https://github.com/mohitxd-fr/LeetCode/tree/master/2850-construct-the-longest-new-string) |
 ## Stack
