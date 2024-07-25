@@ -462,6 +462,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 ## Math
 |  |
 | ------- |
+| [0263-ugly-number](https://github.com/mohitxd-fr/LeetCode/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/mohitxd-fr/LeetCode/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/mohitxd-fr/LeetCode/tree/master/0319-bulb-switcher) |
 | [1086-divisor-game](https://github.com/mohitxd-fr/LeetCode/tree/master/1086-divisor-game) |
