@@ -289,6 +289,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 |  |
 | ------- |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/mohitxd-fr/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/mohitxd-fr/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/mohitxd-fr/LeetCode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2472-build-a-matrix-with-conditions](https://github.com/mohitxd-fr/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
 ## Topological Sort
@@ -411,6 +412,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 | [0152-maximum-product-subarray](https://github.com/mohitxd-fr/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/mohitxd-fr/LeetCode/tree/master/0198-house-robber) |
 | [1086-divisor-game](https://github.com/mohitxd-fr/LeetCode/tree/master/1086-divisor-game) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/mohitxd-fr/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2850-construct-the-longest-new-string](https://github.com/mohitxd-fr/LeetCode/tree/master/2850-construct-the-longest-new-string) |
 ## Stack
 |  |
@@ -570,4 +572,8 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/mohitxd-fr/LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Shortest Path
+|  |
+| ------- |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/mohitxd-fr/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 <!---LeetCode Topics End-->
