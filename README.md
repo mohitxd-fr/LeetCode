@@ -325,6 +325,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 | [0948-sort-an-array](https://github.com/mohitxd-fr/LeetCode/tree/master/0948-sort-an-array) |
 | [0978-valid-mountain-array](https://github.com/mohitxd-fr/LeetCode/tree/master/0978-valid-mountain-array) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/mohitxd-fr/LeetCode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
+| [1210-mean-of-array-after-removing-some-elements](https://github.com/mohitxd-fr/LeetCode/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1293-three-consecutive-odds](https://github.com/mohitxd-fr/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1333-sort-the-jumbled-numbers](https://github.com/mohitxd-fr/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1395-minimum-time-visiting-all-points](https://github.com/mohitxd-fr/LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
@@ -404,6 +405,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 | [0455-assign-cookies](https://github.com/mohitxd-fr/LeetCode/tree/master/0455-assign-cookies) |
 | [0726-number-of-atoms](https://github.com/mohitxd-fr/LeetCode/tree/master/0726-number-of-atoms) |
 | [0948-sort-an-array](https://github.com/mohitxd-fr/LeetCode/tree/master/0948-sort-an-array) |
+| [1210-mean-of-array-after-removing-some-elements](https://github.com/mohitxd-fr/LeetCode/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1333-sort-the-jumbled-numbers](https://github.com/mohitxd-fr/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/mohitxd-fr/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2846-robot-collisions](https://github.com/mohitxd-fr/LeetCode/tree/master/2846-robot-collisions) |
