@@ -327,6 +327,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/mohitxd-fr/LeetCode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/mohitxd-fr/LeetCode/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/mohitxd-fr/LeetCode/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
+| [1256-rank-transform-of-an-array](https://github.com/mohitxd-fr/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1293-three-consecutive-odds](https://github.com/mohitxd-fr/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1333-sort-the-jumbled-numbers](https://github.com/mohitxd-fr/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1395-minimum-time-visiting-all-points](https://github.com/mohitxd-fr/LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
@@ -381,6 +382,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 | [0816-design-hashset](https://github.com/mohitxd-fr/LeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/mohitxd-fr/LeetCode/tree/master/0817-design-hashmap) |
 | [0837-most-common-word](https://github.com/mohitxd-fr/LeetCode/tree/master/0837-most-common-word) |
+| [1256-rank-transform-of-an-array](https://github.com/mohitxd-fr/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1472-increasing-decreasing-string](https://github.com/mohitxd-fr/LeetCode/tree/master/1472-increasing-decreasing-string) |
 | [1848-sum-of-unique-elements](https://github.com/mohitxd-fr/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/mohitxd-fr/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -407,6 +409,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 | [0726-number-of-atoms](https://github.com/mohitxd-fr/LeetCode/tree/master/0726-number-of-atoms) |
 | [0948-sort-an-array](https://github.com/mohitxd-fr/LeetCode/tree/master/0948-sort-an-array) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/mohitxd-fr/LeetCode/tree/master/1210-mean-of-array-after-removing-some-elements) |
+| [1256-rank-transform-of-an-array](https://github.com/mohitxd-fr/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/mohitxd-fr/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/mohitxd-fr/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2846-robot-collisions](https://github.com/mohitxd-fr/LeetCode/tree/master/2846-robot-collisions) |
