@@ -292,6 +292,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/mohitxd-fr/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/mohitxd-fr/LeetCode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2472-build-a-matrix-with-conditions](https://github.com/mohitxd-fr/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/mohitxd-fr/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Topological Sort
 |  |
 | ------- |
@@ -339,6 +340,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 | [2472-build-a-matrix-with-conditions](https://github.com/mohitxd-fr/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/mohitxd-fr/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2846-robot-collisions](https://github.com/mohitxd-fr/LeetCode/tree/master/2846-robot-collisions) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/mohitxd-fr/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Greedy
 |  |
 | ------- |
@@ -445,6 +447,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/mohitxd-fr/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/mohitxd-fr/LeetCode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/mohitxd-fr/LeetCode/tree/master/2816-lexicographically-smallest-palindrome) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/mohitxd-fr/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Linked List
 |  |
 | ------- |
@@ -576,4 +579,5 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 |  |
 | ------- |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/mohitxd-fr/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/mohitxd-fr/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
 <!---LeetCode Topics End-->
