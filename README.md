@@ -345,6 +345,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 | [2472-build-a-matrix-with-conditions](https://github.com/mohitxd-fr/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/mohitxd-fr/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2846-robot-collisions](https://github.com/mohitxd-fr/LeetCode/tree/master/2846-robot-collisions) |
+| [2881-split-strings-by-separator](https://github.com/mohitxd-fr/LeetCode/tree/master/2881-split-strings-by-separator) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/mohitxd-fr/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Greedy
 |  |
@@ -455,6 +456,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/mohitxd-fr/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/mohitxd-fr/LeetCode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/mohitxd-fr/LeetCode/tree/master/2816-lexicographically-smallest-palindrome) |
+| [2881-split-strings-by-separator](https://github.com/mohitxd-fr/LeetCode/tree/master/2881-split-strings-by-separator) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/mohitxd-fr/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Linked List
 |  |
