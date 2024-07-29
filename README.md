@@ -335,6 +335,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 | [1395-minimum-time-visiting-all-points](https://github.com/mohitxd-fr/LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/mohitxd-fr/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/mohitxd-fr/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1547-destination-city](https://github.com/mohitxd-fr/LeetCode/tree/master/1547-destination-city) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/mohitxd-fr/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/mohitxd-fr/LeetCode/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1720-crawler-log-folder](https://github.com/mohitxd-fr/LeetCode/tree/master/1720-crawler-log-folder) |
@@ -389,6 +390,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 | [0837-most-common-word](https://github.com/mohitxd-fr/LeetCode/tree/master/0837-most-common-word) |
 | [1256-rank-transform-of-an-array](https://github.com/mohitxd-fr/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1472-increasing-decreasing-string](https://github.com/mohitxd-fr/LeetCode/tree/master/1472-increasing-decreasing-string) |
+| [1547-destination-city](https://github.com/mohitxd-fr/LeetCode/tree/master/1547-destination-city) |
 | [1848-sum-of-unique-elements](https://github.com/mohitxd-fr/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/mohitxd-fr/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/mohitxd-fr/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -455,6 +457,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 | [0837-most-common-word](https://github.com/mohitxd-fr/LeetCode/tree/master/0837-most-common-word) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mohitxd-fr/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1472-increasing-decreasing-string](https://github.com/mohitxd-fr/LeetCode/tree/master/1472-increasing-decreasing-string) |
+| [1547-destination-city](https://github.com/mohitxd-fr/LeetCode/tree/master/1547-destination-city) |
 | [1720-crawler-log-folder](https://github.com/mohitxd-fr/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/mohitxd-fr/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/mohitxd-fr/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
