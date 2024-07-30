@@ -321,6 +321,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 | [0350-intersection-of-two-arrays-ii](https://github.com/mohitxd-fr/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/mohitxd-fr/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/mohitxd-fr/LeetCode/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/mohitxd-fr/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0816-design-hashset](https://github.com/mohitxd-fr/LeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/mohitxd-fr/LeetCode/tree/master/0817-design-hashmap) |
 | [0837-most-common-word](https://github.com/mohitxd-fr/LeetCode/tree/master/0837-most-common-word) |
@@ -414,6 +415,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 | [0350-intersection-of-two-arrays-ii](https://github.com/mohitxd-fr/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/mohitxd-fr/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/mohitxd-fr/LeetCode/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/mohitxd-fr/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0726-number-of-atoms](https://github.com/mohitxd-fr/LeetCode/tree/master/0726-number-of-atoms) |
 | [0948-sort-an-array](https://github.com/mohitxd-fr/LeetCode/tree/master/0948-sort-an-array) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/mohitxd-fr/LeetCode/tree/master/1210-mean-of-array-after-removing-some-elements) |
@@ -493,6 +495,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 | [0263-ugly-number](https://github.com/mohitxd-fr/LeetCode/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/mohitxd-fr/LeetCode/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/mohitxd-fr/LeetCode/tree/master/0319-bulb-switcher) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/mohitxd-fr/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1086-divisor-game](https://github.com/mohitxd-fr/LeetCode/tree/master/1086-divisor-game) |
 | [1395-minimum-time-visiting-all-points](https://github.com/mohitxd-fr/LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1448-maximum-69-number](https://github.com/mohitxd-fr/LeetCode/tree/master/1448-maximum-69-number) |
