@@ -430,6 +430,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 | [0198-house-robber](https://github.com/mohitxd-fr/LeetCode/tree/master/0198-house-robber) |
 | [1086-divisor-game](https://github.com/mohitxd-fr/LeetCode/tree/master/1086-divisor-game) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/mohitxd-fr/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/mohitxd-fr/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2850-construct-the-longest-new-string](https://github.com/mohitxd-fr/LeetCode/tree/master/2850-construct-the-longest-new-string) |
 ## Stack
 |  |
@@ -439,6 +440,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 | [0726-number-of-atoms](https://github.com/mohitxd-fr/LeetCode/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mohitxd-fr/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/mohitxd-fr/LeetCode/tree/master/1720-crawler-log-folder) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/mohitxd-fr/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/mohitxd-fr/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2846-robot-collisions](https://github.com/mohitxd-fr/LeetCode/tree/master/2846-robot-collisions) |
 ## Monotonic Stack
@@ -459,6 +461,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 | [1472-increasing-decreasing-string](https://github.com/mohitxd-fr/LeetCode/tree/master/1472-increasing-decreasing-string) |
 | [1547-destination-city](https://github.com/mohitxd-fr/LeetCode/tree/master/1547-destination-city) |
 | [1720-crawler-log-folder](https://github.com/mohitxd-fr/LeetCode/tree/master/1720-crawler-log-folder) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/mohitxd-fr/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/mohitxd-fr/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/mohitxd-fr/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/mohitxd-fr/LeetCode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
