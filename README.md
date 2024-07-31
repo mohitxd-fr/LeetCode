@@ -436,6 +436,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 | [1196-filling-bookcase-shelves](https://github.com/mohitxd-fr/LeetCode/tree/master/1196-filling-bookcase-shelves) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/mohitxd-fr/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/mohitxd-fr/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [2464-time-needed-to-rearrange-a-binary-string](https://github.com/mohitxd-fr/LeetCode/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
 | [2850-construct-the-longest-new-string](https://github.com/mohitxd-fr/LeetCode/tree/master/2850-construct-the-longest-new-string) |
 ## Stack
 |  |
@@ -471,6 +472,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/mohitxd-fr/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/mohitxd-fr/LeetCode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/mohitxd-fr/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2464-time-needed-to-rearrange-a-binary-string](https://github.com/mohitxd-fr/LeetCode/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/mohitxd-fr/LeetCode/tree/master/2816-lexicographically-smallest-palindrome) |
 | [2881-split-strings-by-separator](https://github.com/mohitxd-fr/LeetCode/tree/master/2881-split-strings-by-separator) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/mohitxd-fr/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -491,6 +493,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/mohitxd-fr/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/mohitxd-fr/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/mohitxd-fr/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2464-time-needed-to-rearrange-a-binary-string](https://github.com/mohitxd-fr/LeetCode/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
 | [2645-pass-the-pillow](https://github.com/mohitxd-fr/LeetCode/tree/master/2645-pass-the-pillow) |
 | [2846-robot-collisions](https://github.com/mohitxd-fr/LeetCode/tree/master/2846-robot-collisions) |
 ## Math
