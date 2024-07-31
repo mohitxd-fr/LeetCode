@@ -328,6 +328,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 | [0948-sort-an-array](https://github.com/mohitxd-fr/LeetCode/tree/master/0948-sort-an-array) |
 | [0978-valid-mountain-array](https://github.com/mohitxd-fr/LeetCode/tree/master/0978-valid-mountain-array) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/mohitxd-fr/LeetCode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
+| [1196-filling-bookcase-shelves](https://github.com/mohitxd-fr/LeetCode/tree/master/1196-filling-bookcase-shelves) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/mohitxd-fr/LeetCode/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/mohitxd-fr/LeetCode/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1256-rank-transform-of-an-array](https://github.com/mohitxd-fr/LeetCode/tree/master/1256-rank-transform-of-an-array) |
@@ -431,6 +432,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 | [0152-maximum-product-subarray](https://github.com/mohitxd-fr/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/mohitxd-fr/LeetCode/tree/master/0198-house-robber) |
 | [1086-divisor-game](https://github.com/mohitxd-fr/LeetCode/tree/master/1086-divisor-game) |
+| [1196-filling-bookcase-shelves](https://github.com/mohitxd-fr/LeetCode/tree/master/1196-filling-bookcase-shelves) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/mohitxd-fr/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/mohitxd-fr/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2850-construct-the-longest-new-string](https://github.com/mohitxd-fr/LeetCode/tree/master/2850-construct-the-longest-new-string) |
