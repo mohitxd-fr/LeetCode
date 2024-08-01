@@ -348,6 +348,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 | [2306-create-binary-tree-from-descriptions](https://github.com/mohitxd-fr/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2472-build-a-matrix-with-conditions](https://github.com/mohitxd-fr/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/mohitxd-fr/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2727-number-of-senior-citizens](https://github.com/mohitxd-fr/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [2846-robot-collisions](https://github.com/mohitxd-fr/LeetCode/tree/master/2846-robot-collisions) |
 | [2881-split-strings-by-separator](https://github.com/mohitxd-fr/LeetCode/tree/master/2881-split-strings-by-separator) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/mohitxd-fr/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -473,6 +474,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/mohitxd-fr/LeetCode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/mohitxd-fr/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2464-time-needed-to-rearrange-a-binary-string](https://github.com/mohitxd-fr/LeetCode/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
+| [2727-number-of-senior-citizens](https://github.com/mohitxd-fr/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/mohitxd-fr/LeetCode/tree/master/2816-lexicographically-smallest-palindrome) |
 | [2881-split-strings-by-separator](https://github.com/mohitxd-fr/LeetCode/tree/master/2881-split-strings-by-separator) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/mohitxd-fr/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
