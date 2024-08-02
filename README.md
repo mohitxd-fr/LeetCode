@@ -345,6 +345,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 | [1848-sum-of-unique-elements](https://github.com/mohitxd-fr/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/mohitxd-fr/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1983-maximum-population-year](https://github.com/mohitxd-fr/LeetCode/tree/master/1983-maximum-population-year) |
+| [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/mohitxd-fr/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/mohitxd-fr/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/mohitxd-fr/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2472-build-a-matrix-with-conditions](https://github.com/mohitxd-fr/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
@@ -377,6 +378,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/mohitxd-fr/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/mohitxd-fr/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/mohitxd-fr/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Prefix Sum
 |  |
