@@ -343,6 +343,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 | [1720-crawler-log-folder](https://github.com/mohitxd-fr/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/mohitxd-fr/LeetCode/tree/master/1803-average-waiting-time) |
 | [1848-sum-of-unique-elements](https://github.com/mohitxd-fr/LeetCode/tree/master/1848-sum-of-unique-elements) |
+| [1938-minimum-operations-to-make-the-array-increasing](https://github.com/mohitxd-fr/LeetCode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/mohitxd-fr/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1983-maximum-population-year](https://github.com/mohitxd-fr/LeetCode/tree/master/1983-maximum-population-year) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/mohitxd-fr/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
@@ -364,6 +365,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 | [1448-maximum-69-number](https://github.com/mohitxd-fr/LeetCode/tree/master/1448-maximum-69-number) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/mohitxd-fr/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/mohitxd-fr/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1938-minimum-operations-to-make-the-array-increasing](https://github.com/mohitxd-fr/LeetCode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/mohitxd-fr/LeetCode/tree/master/2816-lexicographically-smallest-palindrome) |
 | [2850-construct-the-longest-new-string](https://github.com/mohitxd-fr/LeetCode/tree/master/2850-construct-the-longest-new-string) |
 ## Binary Search
