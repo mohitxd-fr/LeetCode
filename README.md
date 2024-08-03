@@ -338,6 +338,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/mohitxd-fr/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/mohitxd-fr/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1547-destination-city](https://github.com/mohitxd-fr/LeetCode/tree/master/1547-destination-city) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/mohitxd-fr/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/mohitxd-fr/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/mohitxd-fr/LeetCode/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1720-crawler-log-folder](https://github.com/mohitxd-fr/LeetCode/tree/master/1720-crawler-log-folder) |
@@ -401,6 +402,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 | [1256-rank-transform-of-an-array](https://github.com/mohitxd-fr/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1472-increasing-decreasing-string](https://github.com/mohitxd-fr/LeetCode/tree/master/1472-increasing-decreasing-string) |
 | [1547-destination-city](https://github.com/mohitxd-fr/LeetCode/tree/master/1547-destination-city) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/mohitxd-fr/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1848-sum-of-unique-elements](https://github.com/mohitxd-fr/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/mohitxd-fr/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/mohitxd-fr/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -431,6 +433,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 | [1256-rank-transform-of-an-array](https://github.com/mohitxd-fr/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/mohitxd-fr/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/mohitxd-fr/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/mohitxd-fr/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/mohitxd-fr/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2846-robot-collisions](https://github.com/mohitxd-fr/LeetCode/tree/master/2846-robot-collisions) |
 ## Dynamic Programming
