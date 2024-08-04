@@ -339,6 +339,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 | [1496-lucky-numbers-in-a-matrix](https://github.com/mohitxd-fr/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1547-destination-city](https://github.com/mohitxd-fr/LeetCode/tree/master/1547-destination-city) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/mohitxd-fr/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/mohitxd-fr/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/mohitxd-fr/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/mohitxd-fr/LeetCode/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1720-crawler-log-folder](https://github.com/mohitxd-fr/LeetCode/tree/master/1720-crawler-log-folder) |
@@ -377,6 +378,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 | [0287-find-the-duplicate-number](https://github.com/mohitxd-fr/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mohitxd-fr/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/mohitxd-fr/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/mohitxd-fr/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Sliding Window
 |  |
 | ------- |
@@ -415,6 +417,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 | [0350-intersection-of-two-arrays-ii](https://github.com/mohitxd-fr/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/mohitxd-fr/LeetCode/tree/master/0455-assign-cookies) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/mohitxd-fr/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/mohitxd-fr/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/mohitxd-fr/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2481-strictly-palindromic-number](https://github.com/mohitxd-fr/LeetCode/tree/master/2481-strictly-palindromic-number) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/mohitxd-fr/LeetCode/tree/master/2816-lexicographically-smallest-palindrome) |
@@ -434,6 +437,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 | [1333-sort-the-jumbled-numbers](https://github.com/mohitxd-fr/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/mohitxd-fr/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/mohitxd-fr/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/mohitxd-fr/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/mohitxd-fr/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2846-robot-collisions](https://github.com/mohitxd-fr/LeetCode/tree/master/2846-robot-collisions) |
 ## Dynamic Programming
