@@ -372,6 +372,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 | [2816-lexicographically-smallest-palindrome](https://github.com/mohitxd-fr/LeetCode/tree/master/2816-lexicographically-smallest-palindrome) |
 | [2850-construct-the-longest-new-string](https://github.com/mohitxd-fr/LeetCode/tree/master/2850-construct-the-longest-new-string) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/mohitxd-fr/LeetCode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/mohitxd-fr/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -411,6 +412,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/mohitxd-fr/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/mohitxd-fr/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/mohitxd-fr/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/mohitxd-fr/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -443,6 +445,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/mohitxd-fr/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/mohitxd-fr/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2846-robot-collisions](https://github.com/mohitxd-fr/LeetCode/tree/master/2846-robot-collisions) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/mohitxd-fr/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -496,6 +499,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 | [2881-split-strings-by-separator](https://github.com/mohitxd-fr/LeetCode/tree/master/2881-split-strings-by-separator) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/mohitxd-fr/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/mohitxd-fr/LeetCode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/mohitxd-fr/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -591,6 +595,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 | [1983-maximum-population-year](https://github.com/mohitxd-fr/LeetCode/tree/master/1983-maximum-population-year) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/mohitxd-fr/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/mohitxd-fr/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/mohitxd-fr/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Matrix
 |  |
 | ------- |
