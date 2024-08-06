@@ -371,6 +371,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/mohitxd-fr/LeetCode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/mohitxd-fr/LeetCode/tree/master/2816-lexicographically-smallest-palindrome) |
 | [2850-construct-the-longest-new-string](https://github.com/mohitxd-fr/LeetCode/tree/master/2850-construct-the-longest-new-string) |
+| [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/mohitxd-fr/LeetCode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -494,6 +495,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 | [2816-lexicographically-smallest-palindrome](https://github.com/mohitxd-fr/LeetCode/tree/master/2816-lexicographically-smallest-palindrome) |
 | [2881-split-strings-by-separator](https://github.com/mohitxd-fr/LeetCode/tree/master/2881-split-strings-by-separator) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/mohitxd-fr/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/mohitxd-fr/LeetCode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 ## Linked List
 |  |
 | ------- |
@@ -530,6 +532,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/mohitxd-fr/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2645-pass-the-pillow](https://github.com/mohitxd-fr/LeetCode/tree/master/2645-pass-the-pillow) |
 | [2850-construct-the-longest-new-string](https://github.com/mohitxd-fr/LeetCode/tree/master/2850-construct-the-longest-new-string) |
+| [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/mohitxd-fr/LeetCode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 ## Geometry
 |  |
 | ------- |
