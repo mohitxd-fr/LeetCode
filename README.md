@@ -325,6 +325,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 | [0816-design-hashset](https://github.com/mohitxd-fr/LeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/mohitxd-fr/LeetCode/tree/master/0817-design-hashmap) |
 | [0837-most-common-word](https://github.com/mohitxd-fr/LeetCode/tree/master/0837-most-common-word) |
+| [0921-spiral-matrix-iii](https://github.com/mohitxd-fr/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/mohitxd-fr/LeetCode/tree/master/0948-sort-an-array) |
 | [0978-valid-mountain-array](https://github.com/mohitxd-fr/LeetCode/tree/master/0978-valid-mountain-array) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/mohitxd-fr/LeetCode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
@@ -512,6 +513,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 ## Simulation
 |  |
 | ------- |
+| [0921-spiral-matrix-iii](https://github.com/mohitxd-fr/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/mohitxd-fr/LeetCode/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1642-water-bottles](https://github.com/mohitxd-fr/LeetCode/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/mohitxd-fr/LeetCode/tree/master/1803-average-waiting-time) |
@@ -602,6 +604,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 ## Matrix
 |  |
 | ------- |
+| [0921-spiral-matrix-iii](https://github.com/mohitxd-fr/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/mohitxd-fr/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [2472-build-a-matrix-with-conditions](https://github.com/mohitxd-fr/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
 ## String Matching
