@@ -325,6 +325,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 | [0816-design-hashset](https://github.com/mohitxd-fr/LeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/mohitxd-fr/LeetCode/tree/master/0817-design-hashmap) |
 | [0837-most-common-word](https://github.com/mohitxd-fr/LeetCode/tree/master/0837-most-common-word) |
+| [0870-magic-squares-in-grid](https://github.com/mohitxd-fr/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/mohitxd-fr/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/mohitxd-fr/LeetCode/tree/master/0948-sort-an-array) |
 | [0978-valid-mountain-array](https://github.com/mohitxd-fr/LeetCode/tree/master/0978-valid-mountain-array) |
@@ -405,6 +406,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 | [0816-design-hashset](https://github.com/mohitxd-fr/LeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/mohitxd-fr/LeetCode/tree/master/0817-design-hashmap) |
 | [0837-most-common-word](https://github.com/mohitxd-fr/LeetCode/tree/master/0837-most-common-word) |
+| [0870-magic-squares-in-grid](https://github.com/mohitxd-fr/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [1256-rank-transform-of-an-array](https://github.com/mohitxd-fr/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1472-increasing-decreasing-string](https://github.com/mohitxd-fr/LeetCode/tree/master/1472-increasing-decreasing-string) |
 | [1547-destination-city](https://github.com/mohitxd-fr/LeetCode/tree/master/1547-destination-city) |
@@ -531,6 +533,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 | [0292-nim-game](https://github.com/mohitxd-fr/LeetCode/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/mohitxd-fr/LeetCode/tree/master/0319-bulb-switcher) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/mohitxd-fr/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0870-magic-squares-in-grid](https://github.com/mohitxd-fr/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [1086-divisor-game](https://github.com/mohitxd-fr/LeetCode/tree/master/1086-divisor-game) |
 | [1395-minimum-time-visiting-all-points](https://github.com/mohitxd-fr/LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1448-maximum-69-number](https://github.com/mohitxd-fr/LeetCode/tree/master/1448-maximum-69-number) |
@@ -604,6 +607,7 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 ## Matrix
 |  |
 | ------- |
+| [0870-magic-squares-in-grid](https://github.com/mohitxd-fr/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/mohitxd-fr/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/mohitxd-fr/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [2472-build-a-matrix-with-conditions](https://github.com/mohitxd-fr/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
